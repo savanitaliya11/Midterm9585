@@ -25,6 +25,8 @@ body{
 }
 
 
+
+
 /* Child Text Container */
 .content_img div{
     position: absolute;
@@ -60,7 +62,11 @@ margin-top: 20px;
 border: 1px solid  black ;
 }
 
-
+.borderfor{
+    border: 1px solid  black ;
+    margin: 20px;
+    border-radius: 10px;
+}
 
 
 
